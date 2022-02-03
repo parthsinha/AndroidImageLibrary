@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/MobileityCameraApi.iml" filepath="$PROJECT_DIR$/.idea/modules/MobileityCameraApi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/androidimagelibrary/MobileityCameraApi.androidimagelibrary.iml" filepath="$PROJECT_DIR$/.idea/modules/androidimagelibrary/MobileityCameraApi.androidimagelibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/MobileityCameraApi.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/MobileityCameraApi.app.iml" />
+    </modules>
+  </component>
+</project>
